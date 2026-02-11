@@ -1,2 +1,14 @@
-# todo-app
-To-Do List Application – HTML, CSS, JavaScript • Developed a web-based task management application with add, delete, and mark-as-complete features. • Implemented DOM manipulation and event handling using JavaScript.
+# To-Do List Application
+
+A simple To-Do List web application built using HTML, CSS, and JavaScript.
+
+## Features
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Simple and responsive UI
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
